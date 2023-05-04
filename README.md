@@ -23,3 +23,16 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
+## Description
+I am creating a password generator to
+
+## Images
+![Alt text](Assets/03-javascript-homework-demo.png)
+
+## Repository
+
+## Deployment
+
+## Credits
+
+
