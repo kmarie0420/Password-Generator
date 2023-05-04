@@ -34,7 +34,7 @@ Simple, Easy, and Random; which makes for better security.
 https://github.com/kmarie0420/Password-Generator
 
 ## Deployment
-![Alt text](../../OneDrive/Pictures/Screenshots/2023-05-04%20(2).png)
+![Alt text](Assets/images/2023-05-04%20(2).png)
 
 ## Credits
 Starter-code: https://github.com/coding-boot-camp/friendly-parakeet
