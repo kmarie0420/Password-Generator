@@ -28,7 +28,7 @@ I am creating a application to help employees generate (at random) passwords fro
 Simple, Easy, and Random; which makes for better security. 
 
 ## Images
-![Alt text](Assets/03-javascript-homework-demo.png)
+![Alt text](Assets/images/03-javascript-homework-demo.png)
 
 ## Repository
 https://github.com/kmarie0420/Password-Generator
