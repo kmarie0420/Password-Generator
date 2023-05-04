@@ -24,15 +24,18 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Description
-I am creating a password generator to
+I am creating a application to help employees generate (at random) passwords from the criteria they selected. Through pop up windows, they can select certain criteria such as "Uppercase letters, Lowercase letters, Numbers, and Symbols." 
+Simple, Easy, and Random; which makes for better security. 
 
 ## Images
 ![Alt text](Assets/03-javascript-homework-demo.png)
 
 ## Repository
+https://github.com/kmarie0420/Password-Generator
 
 ## Deployment
+![Alt text](../../OneDrive/Pictures/Screenshots/2023-05-04%20(2).png)
 
 ## Credits
-
+Starter-code: https://github.com/coding-boot-camp/friendly-parakeet
 
